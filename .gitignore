@@ -1,0 +1,9 @@
+# Local design notes / WIP scratch
+designprince.md
+
+# Editor & OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
